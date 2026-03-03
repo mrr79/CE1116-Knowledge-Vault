@@ -8,12 +8,12 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-Marco de trabajo (framework) ágil para gestionar proyectos complejos mediante ciclos cortos de trabajo llamados Sprints.
+Lista ordenada de todo lo que se necesita en el producto. Es la única fuente de requisitos.
 ## 📌 Puntos Claves (Opcional)
-- Se basa en la transparencia, inspección y adaptación.
+- Es dinámico; cambia conforme el mercado o las necesidades evolucionan.
 
 ## 🔗 Connections
-- [[Filosofía Ágil]], [[Product Owner]], [[Sprint Planning]]
+- [[Product Owner]], [[User Story]]
 
 ## 💡 Personal Insight (Opcional)
 - 
